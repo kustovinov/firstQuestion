@@ -1,0 +1,17 @@
+.
+./Общедоступные
+./Изображения
+./output.txt
+./Документы
+./Шаблоны
+./Музыка
+./.config
+./.config/libreoffice
+./.config/libreoffice/4/user
+./.config/atril
+./.config/xfce4
+./.config/xfce4/panel
+./Рабочий стол
+./.cache/fontconfig
+./Загрузки
+./Видео
